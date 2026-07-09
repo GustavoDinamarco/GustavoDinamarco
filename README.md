@@ -2,11 +2,11 @@
 
 **`Desenvolvedor | DevOps `**
 
-Sou graduando em Ciência da Computação com foco em DevOps, SRE e Cloud Computing. Atuo com automação de processos, versionamento com Git, integração contínua utilizando GitHub Actions e gerenciamento de containers com Docker. Tenho experiência com suporte a infraestrutura, administração de redes e ambientes Linux, além de vivência com ferramentas como ServiceNow, Jira e ambientes colaborativos multinacionais.
+Software Engineer with a strong focus on Java development and infrastructure efficiency.
 
-Possuo conhecimento em fundamentos de redes, CI/CD, infraestrutura como código (IaC) e práticas de observabilidade voltadas à confiabilidade e desempenho de sistemas. Trabalho com linguagens como Python, JavaScript e Java, e tenho familiaridade com serviços AWS voltados para provisionamento de recursos, escalabilidade e alta disponibilidade.
+Currently at Mury, I work on a critical payroll ecosystem, where I have moved beyond traditional development tasks to tackle infrastructure challenges. I successfully implemented containerization strategies (Docker) and monitoring pipelines (Prometheus/Grafana) that improved system reliability and reduced operational costs.
 
-Busco oportunidades onde possa aplicar práticas modernas de engenharia de confiabilidade, contribuir com times ágeis e implementar soluções resilientes, escaláveis e seguras em ambientes cloud-native.
+My background in Computer Science, combined with the IBM DevOps Professional Certificate, grounds my practical experience in solid theoretical foundations. I am driven by building scalable solutions and automating complex workflows.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavodinamarco/" target="_blank" rel="noopener noreferrer">
